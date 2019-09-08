@@ -87,6 +87,7 @@ METHODOLOGICAL INFORMATION
 _______________________________________	
 	
 Description of methods used for collection/generation of data:	
+Organisms were collected via Agassiz trawl aboard the RV Oceanus off the coast of Oregon. Most trawls were 15 mins in duration. All sites and depths can be found in associated data. Samples were sorted and distributed amongst stations for preservation or sampling. This dataset is only for samples taken for fatty acid analysis. Samples were taken by Ross Whippo and Julie Schram. The remainder of sampling was done by the Craig Young lab lead by Lauren Rice. 
 	
 Methods for processing the data:	METHODS
 <describe how  the submitted data were generated from raw or collected data>	
@@ -95,21 +96,26 @@ Instrument- or software-specific information needed to interpret the data:	NA
 	
 Standards and calibration information, if appropriate:	NA
 	
-Environmental/experimental conditions:	CONDITIONS
+Environmental/experimental conditions:	
+Agassiz trawls were conducted from the nearshore to ~40 miles off the coast of Oregon from Newport to Coos Bay. Substrate included muddy, sandy, cobble, shale, rocky. Most trawls were conducted on fairly level substrate, some on slope. Weather was exceptionally calm, little swell, fair skies, light wind. 
 	
 Describe any quality-assurance procedures performed on the data:	QAQC
 	
 People involved with sample collection, processing, analysis and/or submission:	
 
-Ross Whippo: organism collection
-Julie Schram: organism collection
+Ross Whippo: organism collection, fatty acid sampling
+Julie Schram: organism collection, fatty acid sampling
 
 additional data collection:
 
+Lauren Rice: organism collection, voucher preservation
+Nicole Nakata: organism collection, brittlestar collections
+MacKenna Hainey: organism photography
+Craig Young: organism collection, general identification
 
-	
+
 _______________________________________	
-DATA-SPECIFIC INFORMATION FOR: QUAD_Data_FHL.csv
+DATA-SPECIFIC INFORMATION FOR: Oceanus_Collection_Sites.csv
 _______________________________________	
 <create sections for each dataset (or file if appropriate) included>	
 	
