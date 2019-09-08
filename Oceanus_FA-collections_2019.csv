@@ -117,10 +117,44 @@ LOT,UNITS,DATE,SITE,ORGANISM,SAMPLE_CODE,RELATED_CODE,TISSUE,NOTES
 116,2,2019-09-07,CAS09,Ophiura sarsii,CAS09F116,NA,central disc,
 117,2,2019-09-07,CAS11A,Ophiura sarsii,CAS11AF117,NA,central disc,net tore on 1st trawl
 118,2,2019-09-07,CAS11A,Brisaster sp.,CAS11AF118,NA,gonad,net tore on 1st trawl
-119,NA,NA,NA,NA,CAS11AF119,NA,NA,number skipped on accident
+119,2,2019-09-07,CAS13,Stylaster sp.,CAS13F119,CAS13F123,gonad,
 120,2,2019-09-07,CAS11A,Ophiura sarsii,CAS11AF120,NA,central disc,net tore on 1st trawl
 121,2,2019-09-07,CAS11A,Ophiura sarsii,CAS11AF121,NA,central disc,net tore on 1st trawl
 122,1,2019-09-07,CAS11A,Brisaster sp.,CAS11AF122,NA,gonad,net tore on 1st trawl
-123,1,2019-09-07,CAS11A,,,,,
-124,,,,,,,,
-125,,,,,,,,
+123,1,2019-09-07,CAS11A,Stylaster sp.,CAS13F123,CAS13F119,tube feet,
+124,1,2019-09-07,CAS13,Stylaster sp.,CAS13F124,CAS13F125,gonad,
+125,1,2019-09-07,CAS13,Stylaster sp.,CAS13F125,CAS13F124,tube feet,
+126,1,2019-09-07,CAS13,Stylaster sp.,CAS13F126,CAS13F127,gonad,may be some stomach
+127,1,2019-09-07,CAS13,Stylaster sp.,CAS13F127,CAS13F126,tube feet,
+128,1,2019-09-07,CAS13,Stylaster sp.,CAS13F128,CAS13F129,gonad,may be some stomach
+129,1,2019-09-07,CAS13,Stylaster sp.,CAS13F129,CAS13F128,tube feet,
+130,1,2019-09-07,CAS13,Stylaster sp.,CAS13F130,NA,tube foot,
+131,1,2019-09-07,CAS13,Mediaster sp. ,CAS13F131,NA,gonad,
+132,1,2019-09-07,CAS13,Luidia sp. #4,CAS13F132,NA,tube feet,3 arm section
+133,1,2019-09-07,CAS13,Luidia sp. #4,CAS13F133,NA,tube feet,3 arm section
+134,1,2019-09-07,CAS13,Luidia sp. #4,CAS13F134,NA,tube feet,3 arm section
+135,1,2019-09-07,CAS13,Luidia sp. #4,CAS13F135,NA,tube feet,3 arm section
+136,1,2019-09-07,CAS13,Luidia sp. #4,CAS13F136,NA,tube feet,3 arm section
+137,2,2019-09-07,CAS13,Ophiura luetkenii,CAS13F137,NA,central disc,
+138,2,2019-09-07,CAS13,Ophiura luetkenii,CAS13F138,NA,central disc,
+139,2,2019-09-07,CAS13,Ophiura luetkenii,CAS13F139,NA,central disc,
+140,2,2019-09-07,CAS13,Ophiura luetkenii,CAS13F140,NA,central disc,
+141,2,2019-09-07,CAS13,Ophiura luetkenii,CAS13F141,NA,central disc,
+142,1,2019-09-07,CAS13,Crinoid 1,CAS13F142,NA,whole arm,
+143,1,2019-09-07,CAS13,Crinoid 1,CAS13F143,NA,whole arm,
+144,1,2019-09-07,CAS13,Crinoid 1,CAS13F144,NA,whole arm,
+145,1,2019-09-07,CAS13,Crinoid 1,CAS13F145,NA,whole arm,
+146,1,2019-09-07,CAS13,Crinoid 1,CAS13F146,NA,whole arm,
+147,1,2019-09-07,CAS14,Ophiura sarsii,CAS14F147,NA,central disc,
+148,2,2019-09-07,CAS14,Ophiura sarsii,CAS14F148,NA,central disc,
+149,1,2019-09-07,CAS14,Ophiura sarsii,CAS14F149,NA,central disc,
+150,1,2019-09-07,CAS14,Ophiura sarsii,CAS14F150,NA,central disc,
+151,1,2019-09-07,CAS14,Ophiura sarsii,CAS14F151,NA,whole arm,
+152,1,2019-09-07,CAS14,Luidia foliata,CAS14F152,CAS14F153,gonad,orange tube feet
+153,1,2019-09-07,CAS14,Luidia foliata,CAS14F153,CAS14F152,tube feet,orange tube feet
+154,1,2019-09-07,CAS14,Luidia foliata,CAS14F154,NA,tube feet,
+155,1,2019-09-07,CAS14,Luidia foliata,CAS14F155,NA,tube feet,
+156,1,2019-09-07,CAS14,Luidia foliata,CAS14F156,NA,tube feet,
+157,1,2019-09-07,CAS14,Luidia foliata,CAS14F157,NA,tube feet,brittle star disc in stomach
+158,1,2019-09-07,CAS14,Mediaster sp.,CAS14F158,NA,gonad,
+159,1,2019-09-07,CAS14,Mediaster sp.,CAS14F159,NA,gonad,
