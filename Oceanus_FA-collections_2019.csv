@@ -1,1 +1,126 @@
-LOT,UNITS,DATE,SITE,ORGANISM,SAMPLE_CODE,NOTES
+LOT,UNITS,DATE,SITE,ORGANISM,SAMPLE_CODE,RELATED_CODE,TISSUE,NOTES
+001,1,2019-09-06,SWB01,Crinoid 1,SWB01F001,NA,whole arm,
+002,1,2019-09-06,SWB01,Crinoid 1,SWB01F002,NA,whole arm,
+003,1,2019-09-06,SWB01,Crinoid 1,SWB01F003,NA,whole arm,
+004,1,2019-09-06,SWB01,Crinoid 1,SWB01F004,NA,whole arm,
+005,1,2019-09-06,SWB01,Crinoid 1,SWB01F005,NA,whole arm,
+006,1,2019-09-06,SWB01,Crinoid 1,SWB01F006,NA,whole arm,
+007,1,2019-09-06,SWB01,Mediaster sp.,SWB01F007,SWB01F010,tube feet,big
+008,1,2019-09-06,SWB01,Henricia sp.,SWB01F008,NA,whole arm,3 arms
+009,1,2019-09-06,SWB01,Brisaster sp.,SWB01F009,NA,gonad,
+010,1,2019-09-06,SWB01,Mediaster sp.,SWB01F010,SWB01F007,gonad,
+011,1,2019-09-06,SWB01,Brisaster sp.,SWB01F011,NA,gonad,
+012,1,2019-09-06,SWB01,Cucumber 1,SWB01F012,NA,longitudinal muscle,Apostichopus?
+013,1,2019-09-06,SWB01,Cucumber 1,SWB01F013,NA,longitudinal muscle,Apostichopus?
+014,1,2019-09-06,SWB01,Cucumber 1,SWB01F014,NA,longitudinal muscle,Apostichopus?
+015,1,2019-09-06,SWB01,Cucumber 1,SWB01F015,NA,longitudinal muscle,Apostichopus?
+016,1,2019-09-06,SWB01,Cucumber 1,SWB01F016,NA,longitudinal muscle,Apostichopus?
+017,1,2019-09-06,SWB01,Cucumber 1,SWB01F017,NA,longitudinal muscle,Apostichopus?
+018,1,2019-09-06,SWB01,Brachiopod 1,SWB01F018,NA,lophophore,
+019,1,2019-09-06,SWB01,Brachiopod 1,SWB01F019,NA,lophophore,
+020,1,2019-09-06,SWB01,Brachiopod 1,SWB01F020,NA,lophophore,
+021,1,2019-09-06,SWB02,Strongylocentrotus fragilis,SWB02F021,NA,gonad,
+022,1,2019-09-06,SWB01,Brachiopod 1,SWB01F022,NA,lophophore,
+023,1,2019-09-06,SWB01,Brachiopod 1,SWB01F023,NA,lophophore,
+024,1,2019-09-06,SWB02,Shrimp 1,SWB01F024,NA,muscle tissue,"Mis-labeled, should be SWB02F024"
+025,1,2019-09-06,SWB02,Shrimp 1,SWB01F025,NA,muscle tissue,"Mis-labeled, should be SWB02F025"
+026,1,2019-09-06,SWB02,Shrimp 1,SWB01F026,NA,muscle tissue,"Mis-labeled, should be SWB02F026"
+027,1,2019-09-06,SWB02,Shrimp 1,SWB01F027,NA,muscle tissue,"Mis-labeled, should be SWB02F027"
+028,1,2019-09-06,SWB02,Shrimp 1,SWB01F028,NA,muscle tissue,"Mis-labeled, should be SWB02F028"
+029,1,2019-09-06,SWB01,Ophiura luetkenii,SWB01F029,NA,whole organism,
+030,4,2019-09-06,SWB01,Ophiura luetkenii,SWB01F030,NA,whole organism,
+031,5,2019-09-06,SWB01,Ophiolis longispina,SWB01F031,NA,whole organism,
+032,10,2019-09-06,SWB01,Lipidizona sp.,SWB01F032,NA,whole organism,
+033,4,2019-09-06,SWB01,Crepipatella sp.,SWB01F033,NA,whole body,
+034,1,2019-09-06,SWB03,Strongylocentrotus fragilis,SWB03F034,NA,gonad,
+035,1,2019-09-06,SWB03,Strongylocentrotus fragilis,SWB03F035,NA,gonad,
+036,1,2019-09-06,SWB03,Strongylocentrotus fragilis,SWB03F036,NA,gonad,
+037,1,2019-09-06,SWB03,Ophiopteris papilosa,SWB03F037,NA,whole  ,
+038,1,2019-09-06,SWB03,Shrimp 2,SWB03F038,NA,whole abdomen,
+039,1,2019-09-06,SWB03,Shrimp 2,SWB03F039,NA,whole abdomen,
+040,1,2019-09-06,SWB03,Ophiopteris papilosa,SWB03F040,NA,partial disc,
+041,2,2019-09-06,SWB03,Ophiopteris papilosa,SWB03F041,NA,whole disc,
+042,3,2019-09-06,LBV04,Solaster sp.,LBV04F042,NA,arm w/ tube feet,covered in hagfish goo
+043,2,2019-09-06,SWB03,Ophiopteris papilosa,SWB03F043,NA,whole disc,
+044,3,2019-09-06,LBV04,Solaster sp.,LBV04F044,NA,arm section,may have hagfish goo
+045,3,2019-09-06,LBV04,Solaster sp.,LBV04F045,NA,arm section,may have hagfish goo
+046,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F046,CAS07F047,gut w/ some egesta,
+047,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F047,CAS07F046,egesta,“medium” size class
+048,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F048,"CAS07F049, CAS07F050",gut w/ some egesta,
+049,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F049,"CAS07F048, CAS07F050",gonad,minor egesta contamination possible
+050,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F050,"CAS07F048, CAS07F049",egesta,
+051,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F051,"CAS07F052, CAS07F053",gut  ,“medium” size class
+052,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F052,"CAS07F051, CAS07F053",gonad,“medium” size class
+053,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F053,"CAS07F051, CAS07F052",egesta,“medium” size class
+054,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F054,CAS07F055,gut  ,“medium” size class
+055,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F055,CAS07F054,egesta,“medium” size class
+056,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F056,NA,Gut & egesta,label has extra ‘5’ : CAS070556
+057,1,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F057,NA,Gut & egesta,
+058,2,2019-09-07,CAS07,Strongylocentrotus fragilis,CAS07F058,NA,Gut & egesta,
+059,10,2019-09-07,CAS07,Solaster sp.,CAS07F059,NA,Gut & egesta,
+060,1,2019-09-07,CAS07,Solaster sp.,CAS07F060,NA,arm section for tube feet,2 arms
+061,1,2019-09-07,CAS07,Solaster sp.,CAS07F061,NA,arm section for tube feet,3 arms
+062,1,2019-09-07,CAS07,Solaster sp.,CAS07F062,NA,arm section for tube feet,"some gonad present, biggest"
+063,1,2019-09-07,CAS07,Solaster sp.,CAS07F063,NA,arm section for tube feet,2 arms
+064,1,2019-09-07,CAS07,Solaster sp.,CAS07F064,NA,arm section for tube feet,3 arms
+065,1,2019-09-07,CAS07,Luidia sp.,CAS07F065,NA,gonad,no pics of intact individual
+066,1,2019-09-07,CAS07,light orange spiny sea star sp.,CAS07F066,NA,arm section for tube feet,"2 arms, no pics of intact individual"
+067,1,2019-09-07,CAS07,light orange spiny sea star sp.,CAS07F067,NA,arm section for tube feet,"3 arms, no pics of intact individual"
+068,1,2019-09-07,CAS07,light orange spiny sea star sp.,CAS07F068,NA,arm section for tube feet,"1 arm, no pics of intact individual"
+069,1,2019-09-07,CAS07,Henricia aspera aspera,CAS07F069,NA,arm section for tube feet,"2 arms, small gonad present"
+070,1,2019-09-07,CAS07,Henricia aspera aspera,CAS07F070,NA,arm section for tube feet,2 arms
+071,1,2019-09-07,CAS07,Henricia aspera aspera,CAS07F071,NA,arm section for tube feet,2 arms
+072,1,2019-09-07,CAS07,Henricia aspera aspera,CAS07F072,NA,arm section for tube feet,2 arms
+073,1,2019-09-07,CAS07,white slimy star,CAS07F073,NA,arm section for tube feet,2 arms
+074,1,2019-09-07,CAS07,white slimy star,CAS07F074,NA,arm section for tube feet,1 arm 
+075,1,2019-09-07,CAS07,white slimy star,CAS07F075,NA,arm section for tube feet,1 arm 
+076,1,2019-09-07,CAS07,white slimy star,CAS07F076,NA,arm section for tube feet,1 arm 
+077,1,2019-09-07,CAS07,white slimy star,CAS07F077,NA,arm section for tube feet,1 arm 
+078,7,2019-09-07,CAS07,Ophiosphalma jolliense,CAS07F078,NA,central disc,
+079,12,2019-09-07,CAS07,Ophiosphalma jolliense,CAS07F079,NA,central disc,
+080,1,2019-09-07,CAS07,Elassochirus gilli,CAS07F080,NA,muscle tissue,
+081,1,2019-09-07,CAS07,Elassochirus gilli,CAS07F081,NA,muscle tissue,
+082,3,2019-09-07,CAS07,Elassochirus gilli,CAS07F082,NA,muscle tissue,
+083,1,2019-09-07,CAS07,Bathybembix bandi,CAS07F083,NA,muscle tissue,foot
+084,1,2019-09-07,CAS07,Bathybembix bandi,CAS07F084,NA,muscle tissue,foot
+085,1,2019-09-07,CAS07,Bathybembix bandi,CAS07F085,NA,muscle tissue,foot
+086,1,2019-09-07,CAS07,Bathybembix bandi,CAS07F086,NA,muscle tissue,foot
+087,1,2019-09-07,CAS07,Bathybembix bandi,CAS07F087,NA,muscle tissue,foot
+088,3,2019-09-07,CAS08,Ophiosphalma jolliense,CAS07F088,NA,whole disc,
+089,3,2019-09-07,CAS08,Ophiosphalma jolliense,CAS07F089,NA,whole disc,
+090,6,2019-09-07,CAS08,Ophiosphalma jolliense,CAS07F090,NA,whole disc,
+091,6,2019-09-07,CAS08,Ophiosphalma jolliense,CAS07F091,NA,whole disc,
+092,1,2019-09-07,CAS08,Strongylocentrotus fragilis,CAS07F092,NA,gonad,a little poo
+093,1,2019-09-07,CAS08,Strongylocentrotus fragilis,CAS07F093,NA,gonad,a little poo
+094,1,2019-09-07,CAS08,Strongylocentrotus fragilis,CAS07F094,NA,gonad,
+095,1,2019-09-07,CAS08,Strongylocentrotus fragilis,CAS07F095,NA,gonad,
+096,1,2019-09-07,CAS08,Strongylocentrotus fragilis,CAS07F096,NA,gonad,
+097,1,2019-09-07,CAS09,Strongylocentrotus fragilis,CAS07F097,NA,gonad,
+098,1,2019-09-07,CAS09,Strongylocentrotus fragilis,CAS07F098,NA,gonad,
+099,1,2019-09-07,CAS09,Strongylocentrotus fragilis,CAS07F099,NA,gonad,
+100,1,2019-09-07,CAS09,Strongylocentrotus fragilis,CAS07F100,NA,gonad,
+101,1,2019-09-07,CAS09,Strongylocentrotus fragilis,CAS09F101,NA,gonad,
+102,1,2019-09-07,CAS09,Brisaster sp.,CAS09F102,NA,gonad,a little muddy
+103,1,2019-09-07,CAS09,Brisaster sp.,CAS09F103,NA,gonad,
+104,2,2019-09-07,CAS09,Brisaster sp.,CAS09F104,NA,gonad,
+105,2,2019-09-07,CAS09,Solariella nudus,CAS09F105,NA,"mostly foot, some viscera",
+106,2,2019-09-07,CAS09,Solariella nudus,CAS09F106,NA,"mostly foot, some viscera",
+107,2,2019-09-07,CAS09,Solariella nudus,CAS09F107,NA,"mostly foot, some viscera",
+108,2,2019-09-07,CAS09,Solariella nudus,CAS09F108,NA,"mostly foot, some viscera",
+109,2,2019-09-07,CAS09,Solariella nudus,CAS09F109,NA,"mostly foot, some viscera",
+110,1,2019-09-07,CAS09,Mediaster aequalis,CAS09F110,NA,gonad,
+111,1,2019-09-07,CAS09,Brisaster sp.,CAS09F111,NA,gonad,
+112,2,2019-09-07,CAS09,Ophiura sarsii,CAS09F112,NA,central disc,
+113,2,2019-09-07,CAS09,Ophiura sarsii,CAS09F113,NA,central disc,
+114,2,2019-09-07,CAS09,Ophiura sarsii,CAS09F114,NA,central disc,
+115,2,2019-09-07,CAS09,Ophiura sarsii,CAS09F115,NA,central disc,
+116,2,2019-09-07,CAS09,Ophiura sarsii,CAS09F116,NA,central disc,
+117,2,2019-09-07,CAS11A,Ophiura sarsii,CAS11AF117,NA,central disc,net tore on 1st trawl
+118,2,2019-09-07,CAS11A,Brisaster sp.,CAS11AF118,NA,gonad,net tore on 1st trawl
+119,NA,NA,NA,NA,CAS11AF119,NA,NA,number skipped on accident
+120,2,2019-09-07,CAS11A,Ophiura sarsii,CAS11AF120,NA,central disc,net tore on 1st trawl
+121,2,2019-09-07,CAS11A,Ophiura sarsii,CAS11AF121,NA,central disc,net tore on 1st trawl
+122,1,2019-09-07,CAS11A,Brisaster sp.,CAS11AF122,NA,gonad,net tore on 1st trawl
+123,1,2019-09-07,CAS11A,,,,,
+124,,,,,,,,
+125,,,,,,,,
