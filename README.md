@@ -37,6 +37,8 @@ Date of data collection (single date, range, approximate date): 	2019-09-06:2019
 Geographic location of data collection:	Coastal region of Oregon from Newport to Coos Bay, nearshore to 40 miles offshore. More detailed locations listed in site data. 
 	
 Funding sources that supported the collection of the data: 	
+Oceangoing Research Vessel Program Grant awarded to Craig Young by Oregon State University
+Research Assistantship for Ross Whippo from the Coastal Trophic Ecology Lab (OIMB)  
 	
 _______________________________________	
 SHARING/ACCESS INFORMATION	
