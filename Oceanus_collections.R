@@ -65,11 +65,13 @@ Oceanus_full <- Oceanus_full %>%
 # MANIPULATE DATA                                                                 #
 ###################################################################################
 
-# list of taxa collected by depth
-taxa_summary <- Oceanus_full %>%
-  select(ORGANISM, MEAN_DEPTH) %>%
-  group_by(ORGANISM, MEAN_DEPTH) %>%
-  distinct()
+# count of samples by organism, tissue, and depth of collection
+Oceanus_counts <- Oceanus_full
+Oceanus_counts$COUNT <- 1
+
+Oceanus_counts <- Oceanus_counts %>%
+  group_by(ORGANISM, TISSUE, MEAN_DEPTH) %>%
+  summarise(sum(COUNT))
 
 ############### SUBSECTION HERE
 
