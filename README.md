@@ -79,7 +79,7 @@ _______________________________________
 METHODOLOGICAL INFORMATION	
 _______________________________________	
 	
-Description of methods used for collection/generation of data:	Organisms were collected via Agassiz trawl aboard the RV Oceanus off the coast of Oregon. Most trawls were 15 mins in duration. All sites and depths can be found in associated data. Samples were sorted and distributed amongst stations for preservation or sampling. This dataset is only for samples taken for fatty acid analysis. Samples were taken by Ross Whippo and Julie Schram. The remainder of sampling was done by the Craig Young lab lead by Lauren Rice. 
+Description of methods used for collection/generation of data:	Organisms were collected via Agassiz trawl aboard the RV Oceanus off the coast of Oregon. Most trawls were 15 mins in duration. All sites and depths can be found in associated data. Samples were sorted and distributed amongst stations for preservation or sampling. This dataset is only for samples taken for fatty acid analysis. Samples were taken by Ross Whippo and Julie Schram. The remainder of sampling was done by the Craig Young lab lead by Lauren Rice. Tissues taken for fatty acids were held in a -80C freezer aboard ship, then transported back to OIMB in coolers with ice. Samples were kept in the Coastal Trophic Ecology Lab (CTEL) -80C freezer until lyopholized on 2019-09-17 in an appoximately -55C lyopholizer with an atmosphere of <0.02 mBar.
 	
 Methods for processing the data:	METHODS
 <describe how  the submitted data were generated from raw or collected data>	

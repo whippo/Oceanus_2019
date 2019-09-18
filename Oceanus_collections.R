@@ -65,7 +65,7 @@ Oceanus_full <- Oceanus_full %>%
 # MANIPULATE DATA                                                                 #
 ###################################################################################
 
-# count of samples by organism, tissue, and depth of collection
+# count of samples by organism, tissue, and depth of collection 
 Oceanus_counts <- Oceanus_full
 Oceanus_counts$COUNT <- 1
 
