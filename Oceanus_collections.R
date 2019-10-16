@@ -73,7 +73,7 @@ Oceanus_counts <- Oceanus_counts %>%
   group_by(ORGANISM, TISSUE, MEAN_DEPTH) %>%
   summarise(sum(COUNT))
 
-############### SUBSECTION HERE
+
 
 #####
 #<<<<<<<<<<<<<<<<<<<<<<<<<<END OF SCRIPT>>>>>>>>>>>>>>>>>>>>>>>>#
